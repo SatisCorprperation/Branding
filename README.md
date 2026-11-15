@@ -1,174 +1,92 @@
- <p align="center">
-  <img src="./logo-mark.svg" width="76" alt="SatisCorp">
-</p>
+ <div align="center">
 
-<h1 align="center">SatisCorp</h1>
+  <img src="./logo-mark.svg" alt="SatisCorp" width="100" />
 
-<p align="center">
-  <strong>Software you actually own.</strong>
-</p>
+  # SatisCorp
 
-<p align="center">
-  Independent software. Built to stay yours.
-</p>
+  **Software you actually own.**
 
-<p align="center">
-  <a href="https://github.com/gtref/satiscode"><img src="https://livepreview.usecartouche.com/brand/badges/no-ai.svg" alt="No AI"></a>
-  <a href="https://github.com/gtref/satiscode"><img src="https://livepreview.usecartouche.com/brand/badges/offline.svg" alt="Works offline"></a>
-  <a href="https://github.com/gtref/satiscode"><img src="https://livepreview.usecartouche.com/brand/badges/no-telemetry.svg" alt="No telemetry"></a>
-</p>
+  Independent software. Built around privacy, ownership and simplicity.
 
-<p align="center">
-  <a href="https://github.com/SatisCorprperation">Organization</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/SatisCorprperation/Branding">Brand assets</a>
-</p>
+  <a href="https://livepreview.usecartouche.com/satiscorp/brand">Brand Guidelines</a> · <a href="https://github.com/SatisCorprperation">GitHub Organization</a>
+
+  ![GitHub stars](https://img.shields.io/github/stars/SatisCorprperation/Branding?style=flat-square&color=white&label=Stars)
+  ![GitHub forks](https://img.shields.io/github/forks/SatisCorprperation/Branding?style=flat-square&color=white&label=Forks)
+  ![GitHub license](https://img.shields.io/github/license/SatisCorprperation/Branding?style=flat-square&color=white&label=License)
+
+</div>
 
 ---
-
-<p align="center">
-  <img src="./github-social-1280x640.png" width="100%" alt="SatisCorp — Software you actually own">
-</p>
-
-## The idea
-
-Software should belong to the people who use it.
-
-SatisCorp creates small, independent tools designed around privacy, simplicity and ownership. No unnecessary AI, no telemetry, no forced cloud accounts.
-
-Your files. Your machine. Your software.
-
-## What we believe
-
-| Principle | Meaning |
-|:--|:--|
-| **No AI** | Our tools are built without integrated artificial intelligence. |
-| **Offline first** | Software should work without an internet connection. |
-| **Privacy** | No unnecessary tracking or telemetry. |
-| **Ownership** | Your data stays under your control. |
-| **Open source** | Code you can inspect, understand and contribute to. |
-
-## Our products
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🟠 SatisCode</h3>
-      An offline code editor for Windows.
-      <br><br>
-      <a href="https://github.com/gtref/satiscode">Explore repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔵 SatisReader</h3>
-      A modern reader for RSS and ATOM feeds.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🟢 SatisDocs</h3>
-      Clean, readable web pages from Markdown files.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🟣 SatisPalette</h3>
-      A search palette for any website.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚪ SatisTimer</h3>
-      A simple, focused timer.
-    </td>
-    <td width="50%" valign="top">
-      <h3>More to come</h3>
-      Small tools. No unnecessary complexity.
-    </td>
-  </tr>
-</table>
-
-## Our identity
-
-<p align="center">
-  <img src="./logo-lockup.svg" width="300" alt="SatisCorp logo">
-</p>
-
-<p align="center">
-  <img src="./logo-mark-1024.png" width="110" alt="SatisCorp mark">
-  &nbsp;&nbsp;&nbsp;
-  <img src="./logo-mark-dark-1024.png" width="110" alt="SatisCorp dark mark">
-</p>
-
-A bold S. One shape. No unnecessary decoration.
-
-Our visual identity follows the same principles as our software: simple, consistent and functional.
-
-**Brand colours**
-
-| Colour | Hex | Identity |
-|:--|:--|:--|
-| Black | `#000000` | Primary |
-| White | `#FFFFFF` | Primary |
-| Orange | `#FF8A3D` | SatisCode |
-| Blue | `#52A8FF` | SatisReader |
-| Green | `#50E3C2` | SatisDocs |
-| Violet | `#BF7AF0` | SatisPalette |
 
 ## Brand assets
 
-All official SatisCorp visual resources are maintained in this repository.
+Official SatisCorp visual identity and brand resources.
 
-| Resource | File |
-|:--|:--|
-| Primary logo | [SVG](./logo-lockup.svg) |
-| Dark logo | [SVG](./logo-lockup-dark.svg) |
-| Brand mark | [SVG](./logo-mark.svg) |
-| Dark brand mark | [SVG](./logo-mark-dark.svg) |
-| App icon | [SVG](./logo-icon.svg) |
-| PNG logo | [PNG](./logo-lockup.png) |
-| GitHub avatar | [PNG](./avatar-400.png) |
-| GitHub preview | [PNG](./github-social-1280x640.png) |
-| X header | [PNG](./header-1500x500.png) |
-| LinkedIn banner | [PNG](./linkedin-banner-1584x396.png) |
-| Vertical story | [PNG](./story-1080x1920.png) |
+<div align="center">
+  <img src="./header-1500x500.png" alt="SatisCorp brand header" width="100%" />
+</div>
 
-## The brand in use
+## Logo
 
-<p align="center">
-  <img src="./header-1500x500.png" width="100%" alt="SatisCorp social banner">
-</p>
+| Asset | File |
+|---|---|
+| Primary logo | `logo-lockup.svg` |
+| Dark logo | `logo-lockup-dark.svg` |
+| Logo mark | `logo-mark.svg` |
+| Dark logo mark | `logo-mark-dark.svg` |
+| PNG logo | `logo-lockup.png` |
+| App icon | `avatar-400.png` |
 
-<p align="center">
-  <img src="./linkedin-banner-1584x396.png" width="100%" alt="SatisCorp LinkedIn banner">
-</p>
+## Social assets
 
-## Contributing
+| Platform | Asset |
+|---|---|
+| GitHub | `github-social-1280x640.png` |
+| LinkedIn | `linkedin-banner-1584x396.png` |
+| Story | `story-1080x1920.png` |
 
-We welcome people who share our approach to independent software.
+## Brand principles
 
-Explore our repositories, report issues and contribute improvements.
+- **Privacy first** — No telemetry or unnecessary data collection.
+- **Offline by design** — Software that works without depending on the cloud.
+- **User ownership** — Your software, your data, your control.
+- **Open source** — Transparent and accessible software.
 
-- Read the source code.
-- Report bugs.
-- Suggest features.
-- Help improve documentation.
+## Products
 
-## Links
+| Product | Focus | Color |
+|---|---|---|
+| SatisCode | Code editor | `#FF8A3D` |
+| SatisReader | Reading | `#52A8FF` |
+| SatisDocs | Documents | `#50E3C2` |
+| SatisPalette | Colors | `#BF7AF0` |
+| SatisTimer | Time management | — |
 
-<p align="center">
-  <a href="https://github.com/SatisCorprperation">GitHub Organization</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/SatisCorprperation/Branding">Brand identity</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/gtref/satiscode">SatisCode</a>
-</p>
+## Colors
+
+| Name | Hex |
+|---|---|
+| Black | `#000000` |
+| White | `#EDEDED` |
+| SatisCode | `#FF8A3D` |
+| SatisReader | `#52A8FF` |
+| SatisDocs | `#50E3C2` |
+| SatisPalette | `#BF7AF0` |
+
+## Guidelines
+
+For logo usage, typography, colors, spacing, product identity and brand rules, consult the official guide:
+
+**[SatisCorp Brand Guidelines →](https://livepreview.usecartouche.com/satiscorp/brand)**
 
 ---
 
-<p align="center">
-  <img src="./logo-mark.svg" width="32" alt="SatisCorp">
-  <br><br>
-  <strong>SatisCorp</strong>
-  <br>
-  <sub>Software you actually own.</sub>
-  <br><br>
-  <sub>© 2026 SatisCorp</sub>
-</p>
+<div align="center">
+
+  **SatisCorp**
+
+  Software you actually own.
+
+  <a href="https://livepreview.usecartouche.com/satiscorp/brand">Official Brand Guidelines</a>
+
+</div>
