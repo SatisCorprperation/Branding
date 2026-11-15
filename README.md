@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./logo-mark.svg" width="88" alt="SatisCorp mark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./logo-mark.svg">
+  <img src="./logo-mark-dark.svg" width="88" alt="SatisCorp mark" />
+</picture>
 
 # SatisCorp
 
@@ -8,9 +11,9 @@
 
 Independent software. No AI. No telemetry. No internet required.
 
-<a href="https://livepreview.usecartouche.com/satiscorp/"><img src="./badges/no-ai.svg" alt="SatisCorp: no AI" height="22"></a>
-<a href="https://livepreview.usecartouche.com/satiscorp/"><img src="./badges/offline.svg" alt="SatisCorp: works offline" height="22"></a>
-<a href="https://livepreview.usecartouche.com/satiscorp/"><img src="./badges/no-telemetry.svg" alt="SatisCorp: no telemetry" height="22"></a>
+<a href="https://livepreview.usecartouche.com/satiscorp/"><img src="https://livepreview.usecartouche.com/satiscorp/brand/badges/no-ai.svg" alt="SatisCorp: no AI" height="22"></a>
+<a href="https://livepreview.usecartouche.com/satiscorp/"><img src="https://livepreview.usecartouche.com/satiscorp/brand/badges/offline.svg" alt="SatisCorp: works offline" height="22"></a>
+<a href="https://livepreview.usecartouche.com/satiscorp/"><img src="https://livepreview.usecartouche.com/satiscorp/brand/badges/no-telemetry.svg" alt="SatisCorp: no telemetry" height="22"></a>
 
 [Website](https://livepreview.usecartouche.com/satiscorp/) · [Brand guidelines](https://livepreview.usecartouche.com/satiscorp/brand) · [GitHub organization](https://github.com/SatisCorprperation) · [Branding repository](https://github.com/SatisCorprperation/Branding)
 
@@ -114,7 +117,10 @@ The SatisCorp mark is a bold, geometric letter S.
 
 It is deliberately simple, compact and easy to recognize. It is designed to remain readable even at very small sizes.
 
-<img src="./logo-mark.svg" width="120" alt="SatisCorp mark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./logo-mark.svg">
+  <img src="./logo-mark-dark.svg" width="120" alt="SatisCorp mark" />
+</picture>
 
 ### Construction
 
@@ -133,19 +139,22 @@ It must remain aligned to its original grid when reproduced.
 
 **Primary horizontal lockup**
 
-<img src="./logo-lockup.svg" width="340" alt="SatisCorp horizontal logo" />
+<img src="./logo-lockup.png" width="340" alt="SatisCorp horizontal logo, white on black" />
 
-**Dark horizontal lockup**
+**Dark horizontal lockup** (black, for light backgrounds)
 
-<img src="./logo-lockup-dark.svg" width="340" alt="SatisCorp dark logo" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./logo-lockup.svg">
+  <img src="./logo-lockup-dark.svg" width="340" alt="SatisCorp horizontal logo, black on white" />
+</picture>
 
 **Standalone mark**
 
-<img src="./logo-mark.svg" width="100" alt="SatisCorp standalone mark" />
+<img src="./logo-mark-1024.png" width="100" alt="SatisCorp standalone mark, white on black" />
 
-**Dark standalone mark**
+**Dark standalone mark** (black, for light backgrounds)
 
-<img src="./logo-mark-dark.svg" width="100" alt="SatisCorp dark standalone mark" />
+<img src="./logo-mark-dark-1024.png" width="100" alt="SatisCorp standalone mark, black on white" />
 
 ### Which version to use?
 
@@ -541,22 +550,24 @@ Official communication assets are provided in this repository.
 
 # 16 — Official badges
 
-Four official badges are available for READMEs and websites. They are SVG files in the [`badges`](./badges) folder.
+Four official badges are available for READMEs and websites. They are SVG files hosted on the SatisCorp website, so they work anywhere without copying a file.
 
 | Badge | Markdown |
 |---|---|
-| <img src="./badges/no-ai.svg" alt="SatisCorp: no AI" height="22"> | `[![SatisCorp: no AI](https://raw.githubusercontent.com/SatisCorprperation/Branding/main/badges/no-ai.svg)](https://livepreview.usecartouche.com/satiscorp/)` |
-| <img src="./badges/offline.svg" alt="SatisCorp: works offline" height="22"> | `[![SatisCorp: works offline](https://raw.githubusercontent.com/SatisCorprperation/Branding/main/badges/offline.svg)](https://livepreview.usecartouche.com/satiscorp/)` |
-| <img src="./badges/no-telemetry.svg" alt="SatisCorp: no telemetry" height="22"> | `[![SatisCorp: no telemetry](https://raw.githubusercontent.com/SatisCorprperation/Branding/main/badges/no-telemetry.svg)](https://livepreview.usecartouche.com/satiscorp/)` |
-| <img src="./badges/edited-with-satiscode.svg" alt="Edited with SatisCode" height="22"> | `[![Edited with SatisCode](https://raw.githubusercontent.com/SatisCorprperation/Branding/main/badges/edited-with-satiscode.svg)](https://github.com/gtref/satiscode)` |
+| <img src="https://livepreview.usecartouche.com/satiscorp/brand/badges/no-ai.svg" alt="SatisCorp: no AI" height="22"> | `[![SatisCorp: no AI](https://livepreview.usecartouche.com/satiscorp/brand/badges/no-ai.svg)](https://livepreview.usecartouche.com/satiscorp/)` |
+| <img src="https://livepreview.usecartouche.com/satiscorp/brand/badges/offline.svg" alt="SatisCorp: works offline" height="22"> | `[![SatisCorp: works offline](https://livepreview.usecartouche.com/satiscorp/brand/badges/offline.svg)](https://livepreview.usecartouche.com/satiscorp/)` |
+| <img src="https://livepreview.usecartouche.com/satiscorp/brand/badges/no-telemetry.svg" alt="SatisCorp: no telemetry" height="22"> | `[![SatisCorp: no telemetry](https://livepreview.usecartouche.com/satiscorp/brand/badges/no-telemetry.svg)](https://livepreview.usecartouche.com/satiscorp/)` |
+| <img src="https://livepreview.usecartouche.com/satiscorp/brand/badges/edited-with-satiscode.svg" alt="Edited with SatisCode" height="22"> | `[![Edited with SatisCode](https://livepreview.usecartouche.com/satiscorp/brand/badges/edited-with-satiscode.svg)](https://github.com/gtref/satiscode)` |
 
 HTML version of the first one:
 
 ```html
-<a href="https://livepreview.usecartouche.com/satiscorp/"><img src="https://raw.githubusercontent.com/SatisCorprperation/Branding/main/badges/no-ai.svg" alt="SatisCorp: no AI" height="22"></a>
+<a href="https://livepreview.usecartouche.com/satiscorp/"><img src="https://livepreview.usecartouche.com/satiscorp/brand/badges/no-ai.svg" alt="SatisCorp: no AI" height="22"></a>
 ```
 
 Use the badges only for tools that really follow the SatisCorp rules.
+
+The same SVG files are also kept in the `badges` folder of this repository, as a backup.
 
 The page with copy buttons is on the [brand guide](https://livepreview.usecartouche.com/satiscorp/brand#badges).
 
@@ -669,7 +680,10 @@ For the complete visual identity, examples and interactive specifications, the o
 
 <div align="center">
 
-<img src="./logo-mark.svg" width="64" alt="SatisCorp" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./logo-mark.svg">
+  <img src="./logo-mark-dark.svg" width="64" alt="SatisCorp" />
+</picture>
 
 # SatisCorp
 
